@@ -28,4 +28,5 @@ Merge Sort Project
 [8,11,12,16,21,22]
 
 
-Big O(n.logn) 
+BIG O --> Big O(n.logn) 
+
